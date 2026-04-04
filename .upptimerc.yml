@@ -1,6 +1,5 @@
 owner: nauzome
 repo: upptime
-
 sites:
   - name: misskey.pm
     url: https://misskey.pm/
@@ -8,10 +7,8 @@ sites:
     url: https://mediaproxy.cover.pm/?url=https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png
   - name: media.misskey.pm
     url: https://media.misskey.pm/media/e445ddd3-2957-47c9-b28c-ed8b17cf1498.jpg
-
 assignees:
   - AnandChowdhary
-
 status-website:
   cname: status.misskey.pm
   name: Status
