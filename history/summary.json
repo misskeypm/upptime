@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/misskey.pm.ico",
     "slug": "misskey-pm",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 663,
-    "timeDay": 503,
-    "timeWeek": 632,
-    "timeMonth": 663,
-    "timeYear": 663,
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 665,
+    "timeDay": 704,
+    "timeWeek": 629,
+    "timeMonth": 665,
+    "timeYear": 665,
     "dailyMinutesDown": {
       "2026-04-05": 46
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 558,
-    "timeDay": 476,
-    "timeWeek": 556,
-    "timeMonth": 558,
-    "timeYear": 558,
+    "time": 562,
+    "timeDay": 687,
+    "timeWeek": 580,
+    "timeMonth": 562,
+    "timeYear": 562,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 419,
-    "timeWeek": 251,
-    "timeMonth": 216,
-    "timeYear": 216,
+    "time": 222,
+    "timeDay": 399,
+    "timeWeek": 278,
+    "timeMonth": 222,
+    "timeYear": 222,
     "dailyMinutesDown": {}
   }
 ]
